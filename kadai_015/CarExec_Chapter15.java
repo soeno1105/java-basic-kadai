@@ -6,7 +6,7 @@ public class CarExec_Chapter15 {
     	Car_Chapter15 gear = new Car_Chapter15();
         
       
-        gear.gearChange(3);
+        gear.changeGear(3);
         gear.run();
     }
 }
