@@ -43,7 +43,7 @@ public class Jyanken_Chapter28 {
 	    	
 	    	String[] hands = { "r", "s", "p" };
 	    	
-	    	int num = (int) Math.floor(Math.random() * 2);
+	    	int num = (int) Math.floor(Math.random() * 3);
 	    	
 	    	return hands[num];
 	    			
